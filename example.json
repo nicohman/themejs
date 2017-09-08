@@ -1,0 +1,17 @@
+{
+  "name":"example",
+  "bar":{
+    "type":"polybar",
+    "bars":["main", "other"],
+    "location":"polybar"
+  },
+  "quotes":"quotes",
+  "vim_color": "example",
+  "i3":"i3config",
+  "color":"example",
+  "wall":"wall.png",
+  "rofi":"rofi.x",
+  "conky":{
+    "location":"conkywrapper"
+  }
+}
