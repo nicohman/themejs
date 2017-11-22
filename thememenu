@@ -1,0 +1,4 @@
+#!/bin/sh
+
+res=$(ls  --format=single-column ~/themes | tr -d / | rofi -theme sidebar -p "> " -dmenu)
+node ~/themejs/theme.js $res
