@@ -1,3 +1,5 @@
+#Now deprecated
+This is now deprecated and [raven](https:://github.com/nicohman/raven) should be used instead.
 # themejs
 Linux i3-based theme switcher and initalizer. Features support for polybar, conky, wallpaper, rofi, i3, vim and terminal colorschemes, plus a rofi-based menu.
 
